@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="amhttps://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Niks Daniels Kalnins!
 
 <!--
 **NixsDK/NixsDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
