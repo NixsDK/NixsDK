@@ -1,5 +1,5 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="30px">, I am Niks Daniels Kalnins!
-<img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg alt="LinkedIn logo" width="50" height="50"> [linkedIn profile](https://www.linkedin.com/in/niksdanielskalnins/)
+<img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg alt="LinkedIn logo" width="50" height="50"> [linkedIn profile](https://www.linkedin.com/in/niksdanielskalnin/)
 ---
 
 <sub> I am driven by a strong passion for programming and my current focus is to become an accomplished full-stack/back-end PHP developer. With a deep understanding of frameworks like Laravel and proficiency in design patterns such as MVC, I possess the necessary skills to create resilient and scalable web applications tailored to your specific requirements.</sub> 
