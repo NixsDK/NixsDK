@@ -2,8 +2,9 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg alt="LinkedIn logo" width="50" height="50"> [linkedIn profile](https://www.linkedin.com/in/niksdanielskalnin/)
 ---
 
-<sub> I am driven by a strong passion for programming and my current focus is to become an accomplished full-stack/back-end PHP developer. With a deep understanding of frameworks like Laravel and proficiency in design patterns such as MVC, I possess the necessary skills to create resilient and scalable web applications tailored to your specific requirements.</sub> 
-<sub> The future of programming excites me greatly, and I am eager to utilize my enthusiasm and commitment to make a meaningful contribution. I invite you to connect with me so that together we can explore opportunities for collaboration and create exceptional solutions.</sub> 
+<sub> I am a dedicated programmer focusing on becoming an full-stack/back-end developer, specializing in PHP with proficiency in frameworks like Laravel.</sub> 
+<sub> My commitment to learning and adaptability allows me to develop robust and scalable web applications, and I am open to incorporating Java and Python into my skill set to enhance the versatility of my development capabilities. My goal is to deliver high-quality, tailored web applications that meet your specific needs.
+</sub> 
   
 ---
 🧰 ToolBox
