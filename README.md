@@ -26,6 +26,7 @@ I'm continuously learning through both personal and academic projects. My goal i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
+
 ---
 
 <!--
