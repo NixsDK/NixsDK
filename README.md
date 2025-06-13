@@ -2,9 +2,9 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg alt="LinkedIn logo" width="50" height="50"> [linkedIn profile](https://www.linkedin.com/in/niksdanielskalnin/)
 ---
 
-<sub> I am a dedicated programmer focusing on becoming an full-stack/back-end developer, specializing in PHP with proficiency in frameworks like Laravel.</sub> 
-<sub> My commitment to learning and adaptability allows me to develop robust and scalable web applications, and I am open to incorporating Java and Python into my skill set to enhance the versatility of my development capabilities. My goal is to deliver high-quality, tailored web applications that meet your specific needs.
-</sub> 
+<sub> Im a motivated and adaptable front-end programmer with a solid foundation in HTML, CSS, JavaScript, and PHP, eager to keep growing and taking on new challenges. I love designing interactive, user-friendly interfaces and building web applications that dont only work but also look great to use.<sub>
+<sub>Though Ive tried frameworks like Laravel in the past, my new obsession lies more on the front-end: improving layouts, styling with Bootstrap, adding interactivity with JavaScript, and learning about modern technologies such as Vue. js. I also have experience with Git and version control workflows to collaborate effectively and manage projects effectively.<sub>
+<sub>Im continuously learning my skills, working on personal and academic projects that improve both my technical skills and problem-solving attitude. My aim is to become a versatile programmer who can deliver well-structured, polished front-end experiences while still understanding and integrating back-end code as required.<sub>
   
 ---
 🧰 ToolBox
