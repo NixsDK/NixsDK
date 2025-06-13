@@ -1,11 +1,32 @@
-### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="30px">, I am Niks Daniels Kalnins!
-<img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg alt="LinkedIn logo" width="50" height="50"> [linkedIn profile](https://www.linkedin.com/in/niksdanielskalnin/)
+### Hi there 👋, I am Niks Daniels Kalniņš!
+
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/niksdanielskalnin/)  
+[LinkedIn Profile](https://www.linkedin.com/in/niksdanielskalnin/)
+
 ---
 
-<sub> Im a motivated and adaptable front-end programmer with a solid foundation in HTML, CSS, JavaScript, and PHP, eager to keep growing and taking on new challenges. I love designing interactive, user-friendly interfaces and building web applications that dont only work but also look great to use.<sub>
-<sub>Though Ive tried frameworks like Laravel in the past, my new obsession lies more on the front-end: improving layouts, styling with Bootstrap, adding interactivity with JavaScript, and learning about modern technologies such as Vue. js. I also have experience with Git and version control workflows to collaborate effectively and manage projects effectively.<sub>
-<sub>Im continuously learning my skills, working on personal and academic projects that improve both my technical skills and problem-solving attitude. My aim is to become a versatile programmer who can deliver well-structured, polished front-end experiences while still understanding and integrating back-end code as required.<sub>
-  
+I'm a motivated and adaptable front-end programmer with a solid foundation in **HTML**, **CSS**, **JavaScript**, and **PHP**, eager to keep growing and taking on new challenges.  
+I love designing interactive, user-friendly interfaces and building web applications that not only work but also look great.
+
+Though I've tried frameworks like Laravel in the past, my current obsession is front-end refinement — improving layouts, styling with **Bootstrap**, adding interactivity with **JavaScript**, and exploring modern tech like **Vue.js**.
+
+I also have experience using **Git** and version control workflows to collaborate and manage projects effectively.
+
+I'm continuously learning through both personal and academic projects. My goal is to become a versatile programmer capable of delivering polished front-end experiences while understanding how to integrate back-end code when needed.
+
+---
+
+### 🧰 Toolbox
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+</p>
+
 ---
 🧰 ToolBox
 
