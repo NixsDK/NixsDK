@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Niks Daniels Kalniņš!
 
-[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/niksdanielskalnin/)  
-[LinkedIn Profile](https://www.linkedin.com/in/niksdanielskalnin/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24"/> LinkedIn Profile](https://www.linkedin.com/in/niksdanielskalnin/)
 
 ---
 
